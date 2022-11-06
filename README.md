@@ -4,7 +4,7 @@
 
 By Maulik Vadodariya
 
-## [Link to the live Project](https://product-landing-web.netlify.app/) 
+## [Link to the live Project](https://https://product-cart-web.netlify.app/)
 
 ![Completed Website](./readme-images/ScreenShot-20221106171227.png)
 
